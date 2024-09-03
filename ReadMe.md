@@ -22,11 +22,23 @@
 - 💬 Ask me about **python, django, djangorestframework**
 - 📫 How to reach me **rasulovadildora3@gmail.com**
 </pre>
+<h3 align="left">
+<pre>
+    Connect with me:
+</pre>
+    </h3>
+<p align="left">
+    <span>
+        <a href="https://www.linkedin.com/in/muhammadali-asqarov-a09a27325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadali-asqarov" height="30" width="40" /></a>
+    </span>
+    <span>
+        <a href="https://www.instagram.com/muhammadaliasqarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadaliasqarov" height="30" width="40" /></a>
+    </span>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliAsqarov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
