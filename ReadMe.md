@@ -35,8 +35,8 @@
         <a href="https://www.instagram.com/muhammadaliasqarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadaliasqarov" height="30" width="40" /></a>
     </span>
     <span>
-    <a href="https://t.me/yourtelegramusername" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yourtelegramusername" height="30" width="30" />
+    <a href="https://t.me/MukhammadAli_121" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="MukhammadAli_121" height="30" width="30" />
     </a>
 </span>
 </p>
