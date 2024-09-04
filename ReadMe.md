@@ -32,7 +32,7 @@
         <a href="https://www.linkedin.com/in/muhammadali-asqarov-a09a27325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadali-asqarov" height="30" width="40" /></a>
     </span>
     <span>
-        <a href="https://www.instagram.com/muhammadaliasqarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadaliasqarov" height="30" width="40" /></a>
+        <a href="https://www.instagram.com/muhammadaliasqarov_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadaliasqarov_" height="30" width="40" /></a>
     </span>
     <span>
     <a href="https://t.me/MukhammadAli_121" target="_blank">
