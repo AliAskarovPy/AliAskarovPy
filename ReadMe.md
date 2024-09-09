@@ -35,17 +35,14 @@
     <span>
         <a href="https://www.linkedin.com/in/muhammadali-asqarov-a09a27325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadali-asqarov-a09a27325" height="30" width="40" /></a>
     </span>
-    </span>
         <span>
-    <a href="https://x.com/MuhammadAl18220" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="MuhammadAl18220" height="30" width="30" />
-    </a>
-</span>
+        <a href="https://x.com/MuhammadAl18220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="https://x.com/MuhammadAl18220" height="30" width="40" /></a>
+    </span>
 <span>
         <a href="https://www.instagram.com/muhammadaliasqarov_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadaliasqarov_" height="30" width="40" /></a>
     </span>
     <span>
-    <a href="https://t.me/MukhammadAli_121" target="_blank">
+    <a href="https://t.me/MukhammadAli_121/" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="MukhammadAli_121" height="30" width="30" />
     </a>
 </p>
