@@ -26,6 +26,7 @@
 - 💬 Ask me about **python, django, djangorestframework**
 - 📫 How to reach me **rasulovadildora3@gmail.com**
 </pre>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h3 align="left">
 <pre>
     Connect with me:
@@ -48,8 +49,6 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliAsqarov&theme=dark&hide_border=false)
 
 <h1 align="center">
