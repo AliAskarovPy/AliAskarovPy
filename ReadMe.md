@@ -3,7 +3,7 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali!;+I+am+a+backend+developer;+from+Uzbekistan;" />
 </h1>
 <h1 align="center"><pre>Ali Askarov </pre></h1>
-<h3 align="center"><pre>Full Stack Python developer from Uzbekistan</pre></h3>
+<h3 align="center"><pre>Soc Analyst, Pen Tester, Backend Developer</pre></h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammadAliAsqarov&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -23,7 +23,7 @@
 <pre>
 - 🌱 I’m currently learning **Python - Full Stack**
 - 💬 Ask me about **python, django, djangorestframework**
-- 📫 How to reach me **rasulovadildora3@gmail.com**
+- 📫 How to reach me **asqarovm121@gmail.com**
 </pre>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliAsqarov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h3 align="left">
