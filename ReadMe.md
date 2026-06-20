@@ -24,10 +24,6 @@
 - 🌱 I’m currently learning **Python - Full Stack**
 - 💬 Ask me about **python, django, djangorestframework**
 - 📫 How to reach me **asqarovm121@gmail.com**
-</pre>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAskarovPy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<h3 align="left">
-<pre>
     Connect with me:
 </pre>
     </h3>
